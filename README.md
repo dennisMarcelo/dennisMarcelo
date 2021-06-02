@@ -14,6 +14,13 @@
 ####  👨🏽‍💻 Sobre mim
 - Sou do Rio De Janeiro/BR, busco me tornar programador full-stack, atualmente estudante da trybe e formado em análise e desenvolvimento de sistemas. 
 
+	
+<h3 align='center'>
+  🚧 Under construction 🚧
+  <br/>
+  <br/>
+  <img src="https://i.giphy.com/media/zyQUOucy2duRW/giphy.webp" width="400px" height="300px">
+<h3>
 <!--
 **dennisMarcelo/dennisMarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
