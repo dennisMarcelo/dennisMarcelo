@@ -1,6 +1,6 @@
-<h2 align='center'>
+<h1 align='center'>
 	(☞ﾟヮﾟ)☞ Helo world, I'm Dennis <a href="https://github.com/dennisMarcelo?tab=repositories" target="_blank"> <img src="https://i.ibb.co/TkS0mJk/github.png" width="35px" height="30px"> <a> ☜(ﾟヮﾟ☜)
-</h2>
+</h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/dennis-marcelo/" target="_blank">
@@ -11,7 +11,7 @@
   </a>
 <p/>
 
-####  👨🏽‍💻 Sobre mim
+###  👨🏽‍💻 Sobre mim
 - Sou do Rio De Janeiro/BR, busco me tornar programador full-stack, atualmente estudante da trybe e formado em análise e desenvolvimento de sistemas. 
 
 	
