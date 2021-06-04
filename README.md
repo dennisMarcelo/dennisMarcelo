@@ -20,7 +20,7 @@
 - Sou do Rio De Janeiro/BR, busco me tornar programador full-stack, atualmente estudante da trybe e formado em análise e desenvolvimento de sistemas. 
 - Em front-end utilizo: HTML, CSS, JavaScritp e React.
 - Em back-end utilizo: NodeJs, MongoDB Express e bcrypt.
-- Testes unitários utilizo: jest e RTL;
+- Testes unitários utilizo: jest;
 
 ### 🎯 Interesses pessoais
 - Gosto de trabalhar com javaScript (JavaScript vai dominar o mundo <img src="https://i.ibb.co/W31vTvh/0d34f0d521405e4e.gif" width="20px" height="15px">)
