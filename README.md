@@ -13,7 +13,7 @@
 
 ###  👨🏽‍💻 Sobre mim
 - Sou do Rio De Janeiro/BR, busco me tornar programador full-stack, atualmente estudante da trybe e formado em análise e desenvolvimento de sistemas. 
-
+- As principais tecnologias que utilizo no momento são: HTML, CSS, JavaScritp, nodeJs, React
 	
 <h3 align='center'>
   🚧 Under construction 🚧
