@@ -1,8 +1,9 @@
 <h1 align='center'>
-	(☞ﾟヮﾟ)☞ Helo world, I'm Dennis <a href="https://github.com/dennisMarcelo?tab=repositories" target="_blank"> <img src="https://i.ibb.co/TkS0mJk/github.png" width="35px" height="30px"> <a> ☜(ﾟヮﾟ☜)
+	 Helo world, I'm Dennis <a href="https://github.com/dennisMarcelo?tab=repositories" target="_blank"> <img src="https://i.ibb.co/TkS0mJk/github.png" width="35px" height="30px"> <a>
 </h1>
 
 <p align='center'>
+  (☞ﾟヮﾟ)☞
   <a href="https://www.linkedin.com/in/dennis-marcelo/" target="_blank">
     <img src="https://i.ibb.co/BC936QV/linkedin.png" width="48px" height="48px">
   </a>
@@ -12,7 +13,7 @@
   <a href="https://www.instagram.com/dms.im410/" target="_blank">
     <img src="https://i.ibb.co/s1wLqwx/instagram.png" width="48px" height="48px">
   </a>
-	
+ ☜(ﾟヮﾟ☜)
 <p/>
 
 	
