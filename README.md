@@ -5,13 +5,13 @@
 <p align='center'>
   (☞ﾟヮﾟ)☞
   <a href="https://www.linkedin.com/in/dennis-marcelo/" target="_blank">
-    <img src="https://i.ibb.co/BC936QV/linkedin.png" width="30px" height="48px">
+    <img src="https://i.ibb.co/BC936QV/linkedin.png" width="30px" height="30px">
   </a>
 	<a href="https://www.facebook.com/dennis.marcelo.77/" target="_blank">
-  	<img src="https://user-images.githubusercontent.com/37647447/120836798-59309d80-c53c-11eb-97d0-0929f3eb63e2.png" width="30px" height="48px">
+  	<img src="https://user-images.githubusercontent.com/37647447/120836798-59309d80-c53c-11eb-97d0-0929f3eb63e2.png" width="30px" height="30px">
   </a>
   <a href="https://www.instagram.com/dms.im410/" target="_blank">
-    <img src="https://i.ibb.co/s1wLqwx/instagram.png" width="30px" height="48px">
+    <img src="https://i.ibb.co/s1wLqwx/instagram.png" width="30px" height="30">
   </a>
  ☜(ﾟヮﾟ☜)
 <p/>
