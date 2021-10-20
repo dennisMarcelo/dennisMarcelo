@@ -1,26 +1,11 @@
 <h1 align='center'>
 	 Helo world, I'm Dennis <a href="https://github.com/dennisMarcelo?tab=repositories" target="_blank"> <img src="https://i.ibb.co/TkS0mJk/github.png" width="35px" height="30px"> <a>
 </h1>
-
-<p align='center'>
-  (☞ﾟヮﾟ)☞
-  <a href="https://www.linkedin.com/in/dennis-marcelo/" target="_blank">
-    <img src="https://i.ibb.co/BC936QV/linkedin.png" width="35px" height="35px">
-  </a>
-	<a href="https://www.facebook.com/dennis.marcelo.77/" target="_blank">
-  	<img src="https://user-images.githubusercontent.com/37647447/120836798-59309d80-c53c-11eb-97d0-0929f3eb63e2.png" width="35px" height="35px">
-  </a>
-  <a href="https://www.instagram.com/dms.im410/" target="_blank">
-    <img src="https://i.ibb.co/s1wLqwx/instagram.png" width="35px" height="35">
-  </a>
- ☜(ﾟヮﾟ☜)
-<p/>
-
 	
 ###  👨🏽‍💻 Sobre mim
 - Sou do Rio De Janeiro/BR, busco me tornar programador full-stack, atualmente estudante da trybe e formado em análise e desenvolvimento de sistemas. 
 - Em front-end utilizo: HTML, CSS, JavaScritp e React.
-- Em back-end utilizo: NodeJs, MongoDB Express.
+- Em back-end utilizo: NodeJs, MongoDB, MySql.
 - Em testes utilizo: jest, mocha, chai e sinon;
 
 ### 🎯 Interesses pessoais
@@ -43,6 +28,8 @@
 	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120836124-9a747d80-c53b-11eb-8744-42232a86b6eb.png"/>
 </p>
 
+<br />	
+
 <div align="center">
  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dennisMarcelo&count_private=true&show_icons=true&theme=blue-green" />
  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisMarcelo&layout=compact&theme=blue-green" />
@@ -51,7 +38,23 @@
 	
  creditos aos cards: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
 <div>
+
+<br />
+<br />
 	
+<p align='center'>
+  (☞ﾟヮﾟ)☞
+  <a href="https://www.linkedin.com/in/dennis-marcelo/" target="_blank">
+    <img src="https://i.ibb.co/BC936QV/linkedin.png" width="35px" height="35px">
+  </a>
+	<a href="https://www.facebook.com/dennis.marcelo.77/" target="_blank">
+  	<img src="https://user-images.githubusercontent.com/37647447/120836798-59309d80-c53c-11eb-97d0-0929f3eb63e2.png" width="35px" height="35px">
+  </a>
+  <a href="https://www.instagram.com/dms.im410/" target="_blank">
+    <img src="https://i.ibb.co/s1wLqwx/instagram.png" width="35px" height="35">
+  </a>
+ ☜(ﾟヮﾟ☜)
+<p/>
 
 
 <!--
