@@ -9,7 +9,6 @@
 - Em testes utilizo: jest, mocha, chai e sinon;
 
 ### 🎯 Interesses pessoais
-- Gosto de trabalhar com javaScript (JavaScript vai dominar o mundo <img src="https://i.ibb.co/W31vTvh/0d34f0d521405e4e.gif" width="20px" height="15px">)
 - Gosto de games, músicas, tecnologia, ciência, séries e animes.
 - Hobbies: Fotografia, trilha e ler.
 
