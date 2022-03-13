@@ -2,29 +2,32 @@
 	 Helo world, I'm Dennis <a href="https://github.com/dennisMarcelo?tab=repositories" target="_blank"> <img src="https://i.ibb.co/TkS0mJk/github.png" width="35px" height="30px"> <a>
 </h1>
 	
+<img align='right' src="https://user-images.githubusercontent.com/37647447/158064226-a41437f3-933a-457b-a20c-7d4ffc64e354.gif" width="300">
+	
 ###  👨🏽‍💻 Sobre mim
-- Sou do Rio De Janeiro/BR, busco me tornar programador full-stack, atualmente estudante da trybe e formado em análise e desenvolvimento de sistemas. 
-- Em front-end utilizo: HTML, CSS, JavaScritp e React.
-- Em back-end utilizo: NodeJs, MongoDB, MySql.
-- Em testes utilizo: jest, mocha, chai e sinon;
-
-### 🎯 Interesses pessoais
-- Gosto de games, músicas, tecnologia, ciência, séries e animes.
-- Hobbies: Fotografia, trilha e ler.
-
+- :briefcase: Atualmente trabalho como desenvolvedor full-stack na Tempus Digital
+- :brazil: Sou do Rio De Janeiro/BR
+- :man_student: Formado em `Análise e Desenvolvimento de Sistemas` pela Estácio e `Desenvolvimento Full-Stack` pela Trybe.
+- :dart: Busco atualmente uma pós graduação em ciência da computação.
+- :heart_decoration: Gosto de games, músicas, tecnologia, ciência, séries e animes.
+	
 	
 ### 🛠 Tecnologias que já utilizei ou utilizo
 <p align="center">
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120833071-bece5b00-c537-11eb-816b-45c7ce8b25e0.png"/>
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120833687-782d3080-c538-11eb-84da-6bef4faa4c8d.png"/>
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120834842-f3431680-c539-11eb-910c-3393d461b9cf.png"/>
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120834949-18378980-c53a-11eb-91ae-d76f757ee79a.png"/>
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120835062-3a310c00-c53a-11eb-9835-ea20b60a8895.png"/>
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120835219-6a78aa80-c53a-11eb-94b5-83b1c30b38e9.png"/>
-	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120835644-f68ad200-c53a-11eb-8088-f0fe7d9b0c7d.png"/>
-	<img align="center" alt="linux" height="40" width="50" src="https://user-images.githubusercontent.com/37647447/120839239-13290900-c53f-11eb-9c26-13260f9e75ac.png"/>
-	<img align="center" alt="linux" height="40" width="60" src="https://user-images.githubusercontent.com/37647447/120838798-9d24a200-c53e-11eb-9aef-8f6968636a06.png"/>
+	<img align="center" alt="HTML" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120833071-bece5b00-c537-11eb-816b-45c7ce8b25e0.png"/>
+	<img align="center" alt="CSS" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120833687-782d3080-c538-11eb-84da-6bef4faa4c8d.png"/>
+	<img align="center" alt="JavaScript" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120834842-f3431680-c539-11eb-910c-3393d461b9cf.png"/>
+	<img align="center" alt="React" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120834949-18378980-c53a-11eb-91ae-d76f757ee79a.png"/>
+	<img align="center" alt="Redux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120835062-3a310c00-c53a-11eb-9835-ea20b60a8895.png"/>
+	<img align="center" alt="Jest" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120835219-6a78aa80-c53a-11eb-94b5-83b1c30b38e9.png"/>
+	<img align="center" alt="NodeJS" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120835644-f68ad200-c53a-11eb-8088-f0fe7d9b0c7d.png"/>
+	<img align="center" alt="MongoDB" height="40" width="50" src="https://user-images.githubusercontent.com/37647447/120839239-13290900-c53f-11eb-9c26-13260f9e75ac.png"/>
+	<img align="center" alt="Mysql" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/158061937-32f47368-181d-4a97-8fee-169d829c9494.png"/>
+	<img align="center" alt="HandleBars" height="40" width="60" src="https://user-images.githubusercontent.com/37647447/158062141-2e160dcc-8746-4392-b743-78d9802aab4d.png"/>
 	<img align="center" alt="linux" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/120836124-9a747d80-c53b-11eb-8744-42232a86b6eb.png"/>
+	<img align="center" alt="Python" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/158062925-f9176ed6-5ad5-4b25-b688-818b1b06e219.png"/>
+	<img align="center" alt="CSharp" height="40" width="40" src="https://user-images.githubusercontent.com/37647447/158062832-2ff67ec6-67fa-4a01-b742-b6d7242fd7ca.png"/>
+	
 </p>
 
 <br />	
