@@ -11,6 +11,7 @@
 - :dart: Busco atualmente uma pós graduação em ciência da computação.
 - :heart_decoration: Gosto de games, músicas, tecnologia, ciência, séries e animes.
 	
+<br />	
 	
 ### 🛠 Tecnologias que já utilizei ou utilizo
 <p align="center">
