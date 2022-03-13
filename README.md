@@ -39,7 +39,7 @@
 	
  <br/>
 	
- creditos aos cards: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+ créditos aos cards: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
 <div>
 
 <br />
