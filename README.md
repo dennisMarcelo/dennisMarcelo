@@ -7,7 +7,7 @@
 ###  👨🏽‍💻 Sobre mim
 - :briefcase: Atualmente trabalho como desenvolvedor full-stack na Tempus Digital
 - :brazil: Sou do Rio De Janeiro/BR
-- :man_student: Formado em `Análise e Desenvolvimento de Sistemas` pela Estácio e `Desenvolvimento Full-Stack` pela Trybe.
+- :man_student: Formado em `Análise e Desenvolvimento de Sistemas` e `Desenvolvimento Full-Stack` pela Trybe.
 - :dart: Busco atualmente uma pós graduação em engenharia de software.
 - :heart_decoration: Gosto de games, músicas, tecnologia, ciência, séries e animes.
 	
