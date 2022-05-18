@@ -5,7 +5,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/37647447/158064226-a41437f3-933a-457b-a20c-7d4ffc64e354.gif" width="300">
 	
 ###  👨🏽‍💻 Sobre mim
-- :briefcase: Atualmente trabalho como desenvolvedor full-stack na Tempus Digital
+- :briefcase: Atualmente trabalho como desenvolvedor full-stack na ZHEOS/MOTIVA
 - :brazil: Sou do Rio De Janeiro/BR
 - :man_student: Formado em `Análise e Desenvolvimento de Sistemas` e `Desenvolvimento Full-Stack` pela Trybe.
 - :dart: Busco atualmente uma pós graduação em engenharia de software.
